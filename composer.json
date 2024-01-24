@@ -42,6 +42,7 @@
 		}
 	},
 	"config" : {
+		"disable-tls" : true,
 		"autoloader-suffix" : "DontChange",
 		"optimize-autoloader": true,
 		"preferred-install": "dist",
